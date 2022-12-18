@@ -21,3 +21,6 @@ Bullets shot by the ship are defined in starship_bullets.js
 The alien invaders are defined in alien.js.
 They are a set of fields of type AlienField which is defined in 
 alien_field.js
+
+Please note that opening the example.html file in a browser will ot work. 
+You need to have a websever set up to interpret the file correctly.
